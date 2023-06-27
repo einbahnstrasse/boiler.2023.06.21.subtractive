@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 4,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 192.0, 79.0, 437.0, 565.0 ],
+		"rect" : [ 192.0, 106.0, 437.0, 565.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -94,8 +94,8 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 10.0, 57.0, 398.0, 100.0 ],
-					"text" : "To explain why it's called a \"one-zero\" filter would require a bit more math than I'm willing to get into right now! But sufficie it to say that this is a very basic filter design, and is a good place to start...\n\nWe're going to begin with this signal flow diagram that describes how the filter's input and output are related. I'll explain what this means in class. Together, we'll recreate this filter using basic Max objects:"
+					"patching_rect" : [ 10.0, 57.0, 401.0, 100.0 ],
+					"text" : "To explain why it's called a \"one-zero\" filter would require a bit more math than I'm willing to get into right now! But suffice it to say that this is a very basic filter design, and is a good place to start...\n\nWe're going to begin with this signal flow diagram that describes how the filter's input and output are related. I'll explain what this means in class. Together, we'll recreate this filter using basic Max objects:"
 				}
 
 			}
@@ -103,21 +103,21 @@
 		"lines" : [  ],
 		"dependency_cache" : [ 			{
 				"name" : "z.CMC-logo300dpi.2x.gif",
-				"bootpath" : "~/Desktop/myClasses/z.divers/sound-synth-tech-OLD/week.6/2023.06.28.filter.boilers",
+				"bootpath" : "~/Desktop/myClasses/boiler.2023.06.21.subtractive",
 				"patcherrelativepath" : ".",
 				"type" : "GIFf",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "z.by-sa.2x.png",
-				"bootpath" : "~/Desktop/myClasses/z.divers/sound-synth-tech-OLD/week.6/2023.06.28.filter.boilers",
+				"bootpath" : "~/Desktop/myClasses/boiler.2023.06.21.subtractive",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "z.credits.v01.bp.maxpat",
-				"bootpath" : "~/Desktop/myClasses/z.divers/sound-synth-tech-OLD/week.6/2023.06.28.filter.boilers",
+				"bootpath" : "~/Desktop/myClasses/boiler.2023.06.21.subtractive",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
